@@ -1,2 +1,2 @@
 # foundation
-NSQ version of foundation
+NSQ version of foundation (with patch)
